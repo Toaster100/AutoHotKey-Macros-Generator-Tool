@@ -8,7 +8,8 @@ This project is licensed under the GNU General Public License v3.0. You are free
 
 ## Video Tutorial
 
-[![Watch the video](https://img.youtube.com/vi/)](https://www.youtube.com/watch?v=ouhzTsqPFyU)
+[![Watch the video](https://img.youtube.com/vi/ouhzTsqPFyU/0.jpg)](https://www.youtube.com/watch?v=ouhzTsqPFyU)
+
 
 
 ## Download AutoHotKey Dash
